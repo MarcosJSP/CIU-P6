@@ -2,9 +2,14 @@
 
 The objective of this project is to familiarize myself with image and video processing. For the sake of this i made three different camera filters as you can see here:
 
-<img align="center" src="readme assets/demo.gif" alt="Demo gif"></img>
 
-<div align="center"><b>Figure 1 - Image and video processing Demo</b></div>
+
+<p align="center">
+  <img align="center" src="readme assets/demo.gif" alt="Demo gif"></img>
+</p>
+<p align="center">
+   <b>Figure 1 - Image and video processing Demo</b>
+</p>
 
 
 
